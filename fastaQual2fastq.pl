@@ -2,7 +2,7 @@
 # 
 # Original code (kmcarr): http://seqanswers.com/forums/showthread.php?t=2775
 # Patched by drio
-# TS added an additional fix (April 22 2019) on line 44 to avoid warning printing on screen becasue of remaining white space at the beginning of the quality score line
+# TS added an additional fix (April 22 2019) on line 44 to avoid warnings from perl because of remaining white spaces at the beginning of the quality score line
 #
 
 use warnings;
